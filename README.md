@@ -37,15 +37,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
 </p>
-
-<br>
-
-<h3 align="left">GitHub Stats:</h3>
-
-![Vasudev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasudev-1&show_icons=true&theme=radium&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Vasudev-1&show_icons=true&locale=en&layout=compact&theme=radium&hide_border=true)
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vasudev-1&theme=radium&hide_border=true)
