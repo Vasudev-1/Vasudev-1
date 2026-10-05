@@ -1,37 +1,23 @@
-<h1 align="center">Hi 👋, I'm Vasudev Bahuguna</h1>
-<h3 align="center">Recent B.Tech Graduate | Tech Generalist | Constant Learner</h3>
+<h2 align="center"><code>vasudev@system:~$ ./init_profile.sh</code></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasudev-1&label=Profile%20views&color=0e75b6&style=flat" alt="Vasudev-1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vasudev-1&label=Connections&color=0e75b6&style=flat" alt="Vasudev-1" /> </p>
 
-<br>
+```bash
+vasudev@system:~$ whoami
+Vasudev Bahuguna
 
-- 🌱 I'm a recent engineering grad who enjoys being a **jack-of-all-trades**, exploring the basics of various fields rather than locking into a single specialty.
+vasudev@system:~$ cat about_me.txt
+> Role: Recent B.Tech Grad | Tech Explorer
+> Status: Proud Jack-of-all-trades. 
+> Mission: Tinkering with a bit of everything to see how it all connects under the hood. 
+  Not locked into one specialty yet—just enjoying the learning curve.
 
-- 👨‍💻 I love tinkering with different tools to see how they work. Check out some of my past projects pinned below, including **Schedulix** and **IntelliFix**.
+vasudev@system:~$ ls -l ~/past_projects/
+total 2
+drwxr-xr-x 2 vasudev dev 4096 May 2026 Schedulix
+drwxr-xr-x 2 vasudev dev 4096 May 2026 IntelliFix
 
-- 💬 Ask me about my experience navigating different tech stacks, learning new languages, or what I'm experimenting with right now!
-
-- 📫 How to reach me: **aaryav2957@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/vasudev-bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages & Tools I've Experimented With:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a>
-</p>
+vasudev@system:~$ ping -c 1 contact_info
+PING contact_info (127.0.0.1): 56 data bytes
+64 bytes from 127.0.0.1: Email=aaryav2957@gmail.com
+64 bytes from 127.0.0.1: LinkedIn=[linkedin.com/in/vasudev-bahuguna](https://linkedin.com/in/vasudev-bahuguna)
