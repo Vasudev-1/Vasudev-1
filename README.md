@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vasudev Bahuguna</h1>
-<h3 align="center">Systems Engineer | AI Integrations | Low-Level Architecture | Aspiring Tech Architect</h3>
+<h3 align="center">Recent B.Tech Graduate | Tech Generalist | Constant Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasudev-1&label=Profile%20views&color=0e75b6&style=flat" alt="Vasudev-1" /> </p>
 
 <br>
 
-- 🌱 I’m currently building **Aionix: A Real-Time Linux CPU Optimization Framework**
+- 🌱 I'm a recent engineering grad who enjoys being a **jack-of-all-trades**, exploring the basics of various fields rather than locking into a single specialty.
 
-- ⚙️ I specialize in **C/C++, Python, eBPF, and container runtimes**
+- 👨‍💻 I love tinkering with different tools to see how they work. Check out some of my past projects pinned below, including **Schedulix** and **IntelliFix**.
 
-- 👨‍💻 All of my core projects are pinned below, including **Schedulix** and **IntelliFix**
-
-- 💬 Ask me about **Kernel hooks, process scheduling, or ONNX inference in C++**
+- 💬 Ask me about my experience navigating different tech stacks, learning new languages, or what I'm experimenting with right now!
 
 - 📫 How to reach me: **aaryav2957@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/vasudev-bahuguna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vasudev-bahuguna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools I've Experimented With:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
